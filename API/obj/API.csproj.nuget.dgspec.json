@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dot Net\\jwtdotang\\api\\API.csproj": {}
+    "D:\\Dot Net\\jwtdotang\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Dot Net\\jwtdotang\\api\\API.csproj": {
+    "D:\\Dot Net\\jwtdotang\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dot Net\\jwtdotang\\api\\API.csproj",
+        "projectUniqueName": "D:\\Dot Net\\jwtdotang\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Dot Net\\jwtdotang\\api\\API.csproj",
+        "projectPath": "D:\\Dot Net\\jwtdotang\\API\\API.csproj",
         "packagesPath": "C:\\Users\\touki\\.nuget\\packages\\",
-        "outputPath": "D:\\Dot Net\\jwtdotang\\api\\obj\\",
+        "outputPath": "D:\\Dot Net\\jwtdotang\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
